@@ -1,18 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\0demo\\TDgame\\",
+  "WorkspaceRootPath": "D:\\0demo\\tower_defense_game\\TDgame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|D:\\0demo\\TDgame\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|solutionrelative:GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|D:\\0demo\\tower_defense_game\\TDgame\\config_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|solutionrelative:config_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|D:\\0demo\\TDgame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|D:\\0demo\\tower_defense_game\\TDgame\\enemy_type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|solutionrelative:enemy_type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|D:\\0demo\\TDgame\\manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|D:\\0demo\\tower_defense_game\\TDgame\\wave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|solutionrelative:wave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|D:\\0demo\\tower_defense_game\\TDgame\\manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|solutionrelative:manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|D:\\0demo\\tower_defense_game\\TDgame\\game_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|solutionrelative:game_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|D:\\0demo\\tower_defense_game\\TDgame\\tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|solutionrelative:tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|D:\\0demo\\tower_defense_game\\TDgame\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|solutionrelative:map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|D:\\0demo\\tower_defense_game\\TDgame\\route.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DC6ED57-E265-4249-9232-8CE52F6563A5}|TDgame.vcxproj|solutionrelative:route.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 274,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +50,106 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enemy_type.h",
+              "DocumentMoniker": "D:\\0demo\\tower_defense_game\\TDgame\\enemy_type.h",
+              "RelativeDocumentMoniker": "enemy_type.h",
+              "ToolTip": "D:\\0demo\\tower_defense_game\\TDgame\\enemy_type.h",
+              "RelativeToolTip": "enemy_type.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T16:39:09.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wave.h",
+              "DocumentMoniker": "D:\\0demo\\tower_defense_game\\TDgame\\wave.h",
+              "RelativeDocumentMoniker": "wave.h",
+              "ToolTip": "D:\\0demo\\tower_defense_game\\TDgame\\wave.h",
+              "RelativeToolTip": "wave.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T16:34:24.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameManager.h",
-              "DocumentMoniker": "D:\\0demo\\TDgame\\GameManager.h",
-              "RelativeDocumentMoniker": "GameManager.h",
-              "ToolTip": "D:\\0demo\\TDgame\\GameManager.h",
-              "RelativeToolTip": "GameManager.h",
-              "ViewState": "AQIAACEAAAAAAAAAAAAuwCwAAAAfAAAA",
+              "Title": "config_manager.h",
+              "DocumentMoniker": "D:\\0demo\\tower_defense_game\\TDgame\\config_manager.h",
+              "RelativeDocumentMoniker": "config_manager.h",
+              "ToolTip": "D:\\0demo\\tower_defense_game\\TDgame\\config_manager.h",
+              "RelativeToolTip": "config_manager.h",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T16:15:32.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "route.h",
+              "DocumentMoniker": "D:\\0demo\\tower_defense_game\\TDgame\\route.h",
+              "RelativeDocumentMoniker": "route.h",
+              "ToolTip": "D:\\0demo\\tower_defense_game\\TDgame\\route.h",
+              "RelativeToolTip": "route.h",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T09:25:22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "map.h",
+              "DocumentMoniker": "D:\\0demo\\tower_defense_game\\TDgame\\map.h",
+              "RelativeDocumentMoniker": "map.h",
+              "ToolTip": "D:\\0demo\\tower_defense_game\\TDgame\\map.h",
+              "RelativeToolTip": "map.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T06:37:05.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tile.h",
+              "DocumentMoniker": "D:\\0demo\\tower_defense_game\\TDgame\\tile.h",
+              "RelativeDocumentMoniker": "tile.h",
+              "ToolTip": "D:\\0demo\\tower_defense_game\\TDgame\\tile.h",
+              "RelativeToolTip": "tile.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T06:24:06.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game_manager.h",
+              "DocumentMoniker": "D:\\0demo\\tower_defense_game\\TDgame\\game_manager.h",
+              "RelativeDocumentMoniker": "game_manager.h",
+              "ToolTip": "D:\\0demo\\tower_defense_game\\TDgame\\game_manager.h",
+              "RelativeToolTip": "game_manager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-07T13:26:50.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "manager.h",
-              "DocumentMoniker": "D:\\0demo\\TDgame\\manager.h",
+              "DocumentMoniker": "D:\\0demo\\tower_defense_game\\TDgame\\manager.h",
               "RelativeDocumentMoniker": "manager.h",
-              "ToolTip": "D:\\0demo\\TDgame\\manager.h",
+              "ToolTip": "D:\\0demo\\tower_defense_game\\TDgame\\manager.h",
               "RelativeToolTip": "manager.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-07T12:59:27.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\0demo\\TDgame\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\0demo\\TDgame\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-07T12:48:54.993Z",
               "EditorCaption": ""
             }
           ]
